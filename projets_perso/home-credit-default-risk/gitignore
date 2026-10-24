@@ -1,0 +1,10 @@
+# Données et base locale (trop lourdes, à télécharger depuis Kaggle)
+*.csv
+hc.duckdb
+data/
+
+# Fichiers automatiques
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
